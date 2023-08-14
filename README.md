@@ -1,2 +1,2 @@
 # hello world
-this i a basic program of c
+this is a basic program of c
